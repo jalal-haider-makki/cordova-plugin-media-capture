@@ -21,11 +21,11 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:rim="http://www.blackberry.com/ns/widgets"
-           id="cordova-plugin-media-capture"
+           id="cordova-plugin-makki-media-capture"
       version="1.0.1-dev">
-    <name>Capture</name>
+    <name>Capture modified</name>
 
-    <description>Cordova Media Capture Plugin</description>
+    <description>Cordova Media Capture Plugin modified to support m4a recording for ios</description>
     <license>Apache 2.0</license>
     <keywords>cordova,media,capture</keywords>
     <repo>https://git-wip-us.apache.org/repos/asf/cordova-plugin-media-capture.git</repo>
